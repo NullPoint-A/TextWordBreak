@@ -1,4 +1,3 @@
-package com.mrpic.chutcha.core.util
 
 import android.text.TextPaint
 
